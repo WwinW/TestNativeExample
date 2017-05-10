@@ -1,0 +1,19 @@
+{
+  "name": "weiwei.study.1312341234",
+  "version": "1.0.0",
+  "description": "jjaja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WwinW/TestNativeExample.git"
+  },
+  "author": "weiwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WwinW/TestNativeExample/issues"
+  },
+  "homepage": "https://github.com/WwinW/TestNativeExample#readme"
+}
